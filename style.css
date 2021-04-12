@@ -1,0 +1,10 @@
+body{
+  background-image: url("https://media2.giphy.com/media/H89MuX6cQkVCcnyc9V/giphy.gif");
+    color: rgb(255, 255, 255);
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
